@@ -1,0 +1,15 @@
+.buttonClick{
+    background-color: rgb(20, 16, 16);
+    color: rgb(221, 221, 221);
+}
+
+.NoClick{
+    background-color: rgb(233, 233, 17);
+}
+
+.buttonClick,
+.NoClick{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman" sans-serif;
+}
+
